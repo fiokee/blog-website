@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-lg-8 mb-5 mb-lg-0">
 					<article>
-						<img loading="lazy" decoding="async" src="images/post/post-4.jpg" alt="Post Thumbnail" class="w-100">
+						<img loading="lazy" decoding="async" src="../pages/images/post/post-4.jpg" alt="Post Thumbnail" class="w-100">
 						<ul class="post-meta mb-2 mt-4">
 							<li>
 								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" style="margin-right:5px;margin-top:-4px" class="text-dark" viewBox="0 0 16 16">
@@ -146,7 +146,7 @@
 							</table>
 							<hr>
 							<h2 id="image">Image</h2>
-							<img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="images/post/post-1.jpg" alt="THIS IS AN IMAGE">
+							<img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="../pages/images/post/post-1.jpg" alt="THIS IS AN IMAGE">
 							<hr>
 							<h2 id="youtube-video">Youtube video</h2>
 							<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -184,7 +184,7 @@
       <div class="col-lg-12">
         <div class="widget">
           <div class="widget-body">
-            <img loading="lazy" decoding="async" src="images/author.jpg" alt="About Me" class="w-100 author-thumb-sm d-block">
+            <img loading="lazy" decoding="async" src="../pages/images/author.jpg" alt="About Me" class="w-100 author-thumb-sm d-block">
             <h2 class="widget-title my-3">Hootan Safiyari</h2>
             <p class="mb-3 pb-2">Hello, I’m Hootan Safiyari. A Content writter, Developer and Story teller. Working as a Content writter at CoolTech Agency. Quam nihil …</p> <a href="about.html" class="btn btn-sm btn-outline-primary">Know
               More</a>
@@ -200,7 +200,7 @@
                 <div class="card-image">
                   <div class="post-info"> <span class="text-uppercase">1 minutes read</span>
                   </div>
-                  <img loading="lazy" decoding="async" src="images/post/post-9.jpg" alt="Post Thumbnail" class="w-100">
+                  <img loading="lazy" decoding="async" src="../pages/images/post/post-9.jpg" alt="Post Thumbnail" class="w-100">
                 </div>
                 <div class="card-body px-0 pb-1">
                   <h3><a class="post-title post-title-sm"
@@ -212,7 +212,7 @@
                 </div>
               </article>
               <a class="media align-items-center" href="article.html">
-                <img loading="lazy" decoding="async" src="images/post/post-2.jpg" alt="Post Thumbnail" class="w-100">
+                <img loading="lazy" decoding="async" src="../pages/images/post/post-2.jpg" alt="Post Thumbnail" class="w-100">
                 <div class="media-body ml-3">
                   <h3 style="margin-top:-5px">These Are Making It Easier To Visit</h3>
                   <p class="mb-0 small">Heading Here is example of hedings. You can use …</p>
@@ -225,14 +225,14 @@
                 </div>
               </a>
               <a class="media align-items-center" href="article.html">
-                <img loading="lazy" decoding="async" src="images/post/post-5.jpg" alt="Post Thumbnail" class="w-100">
+                <img loading="lazy" decoding="async" src="../pages/images/post/post-5.jpg" alt="Post Thumbnail" class="w-100">
                 <div class="media-body ml-3">
                   <h3 style="margin-top:-5px">Perfect For Fashion</h3>
                   <p class="mb-0 small">Lorem ipsum dolor sit amet, consectetur adipiscing …</p>
                 </div>
               </a>
               <a class="media align-items-center" href="article.html">
-                <img loading="lazy" decoding="async" src="images/post/post-9.jpg" alt="Post Thumbnail" class="w-100">
+                <img loading="lazy" decoding="async" src="../pages/images/post/post-9.jpg" alt="Post Thumbnail" class="w-100">
                 <div class="media-body ml-3">
                   <h3 style="margin-top:-5px">Record Utra Smooth Video</h3>
                   <p class="mb-0 small">Lorem ipsum dolor sit amet, consectetur adipiscing …</p>

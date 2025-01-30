@@ -4,7 +4,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<div class="breadcrumbs mb-4"> <a href="index.php">Home</a>
+					<div class="breadcrumbs mb-4"> <a href="home.php">Home</a>
 						<span class="mx-1">/</span>  <a href="#!">Contact</a>
 					</div>
 				</div>

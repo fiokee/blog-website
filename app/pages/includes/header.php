@@ -4,12 +4,12 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>A Blog</title>
+	<title>A Blog header</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 	<meta name="description" content="This is meta description">
 	<meta name="author" content="Themefisher">
 	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-	<link rel="icon" href="images/favicon.png" type="image/x-icon">
+	<link rel="icon" href="../images/favicon.png" type="image/x-icon">
   
   <!-- theme meta -->
   <meta name="theme-name" content="reporter" />
@@ -20,10 +20,10 @@
 	<link href="https://fonts.googleapis.com/css2?family=Neuton:wght@700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 	<!-- # CSS Plugins -->
-	<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
-
+	<link rel="stylesheet" href="../pages/plugins/bootstrap/bootstrap.min.css">
+  
 	<!-- # Main Style Sheet -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../pages/css/style.css">
 </head>
 
 <body>
@@ -31,8 +31,8 @@
 <header class="navigation">
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light px-0">
-      <a class="navbar-brand order-1 py-0" href="index.php">
-        <img loading="prelaod" decoding="async" class="img-fluid" src="images/logo.png" alt="Reporter Hugo">
+      <a class="navbar-brand order-1 py-0" href="home">
+        <img loading="prelaod" decoding="async" class="img-fluid" src="../pages/images/logo.png" alt="Reporter Hugo">
       </a>
       <div class="navbar-actions order-3 ml-0 ml-md-4">
         <button aria-label="navbar toggler" class="navbar-toggler border-0" type="button" data-toggle="collapse"
@@ -44,18 +44,18 @@
       </form>
       <div class="collapse navbar-collapse text-center order-lg-2 order-4" id="navigation">
         <ul class="navbar-nav mx-auto mt-3 mt-lg-0">
-          <li class="nav-item"> <a class="nav-link" href="about.php">About Me</a>
+          <li class="nav-item"> <a class="nav-link" href="about">About Me</a>
           </li>
           <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button"
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Articles
             </a>
-            <div class="dropdown-menu"> <a class="dropdown-item" href="travel.php">Travel</a>
-              <a class="dropdown-item" href="travel.php">Lifestyle</a>
-              <a class="dropdown-item" href="travel.php">Cruises</a>
+            <div class="dropdown-menu"> <a class="dropdown-item" href="travel">Travel</a>
+              <a class="dropdown-item" href="travel">Lifestyle</a>
+              <a class="dropdown-item" href="travel">Cruises</a>
             </div>
           </li>
-          <li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a>
+          <li class="nav-item"> <a class="nav-link" href="contact">Contact</a>
           </li>
         </ul>
       </div>

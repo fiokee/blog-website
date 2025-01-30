@@ -4,7 +4,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 mx-auto">
-					<div class="breadcrumbs mb-4"> <a href="index.html">Home</a>
+					<div class="breadcrumbs mb-4"> <a href="home.html">Home</a>
 						<span class="mx-1">/</span>  <a href="https://reporter-hugo.netlify.app/terms-conditions">Terms conditions</a>
 					</div>
 				</div>
